@@ -1,0 +1,66 @@
+body{
+  background-image: url(fotofundo.jpg);
+  background-color: rgb(253, 251, 251);
+  font-family: "Karla", sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+#cabecalho{
+  background-color: #0b090a;
+  font-weight: bold;
+  color: #f5f3f4;
+  text-align: center;
+  font-size: 20px;
+}
+
+#list{
+  list-style: none;
+}
+
+#list a{
+  color: #b1a7a6;
+}
+
+main{
+  margin-top: 80px;
+}
+
+#minha_foto{
+  top: 5%;
+  width: 300px;
+  height: 300px;
+  left: 1%;
+  margin-right: 50px;
+  float: left;
+  margin-top: 5px;
+}
+
+#artigo{
+  height: 50px;
+  padding: 15%;
+  margin-top: 250px;
+  max-width: 1200px;
+  margin-left: -15%;
+}
+
+#licao1 {
+  display: inline-block;
+  width: 30%;
+}
+
+#licao2 {
+  display: inline-block;
+  width: 30%;
+}
+
+#rodape{
+  background-color: #0b090a;
+  text-align: center;
+  margin-top: 180px;
+}
+
+#rodape a{
+  color: #b1a7a6;
+  font-size: 18px;
+}
