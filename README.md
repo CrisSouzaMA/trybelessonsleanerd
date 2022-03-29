@@ -1,4 +1,4 @@
-# Project 1 - Módulo Fundamentos - Lessons Leanerd
+# Project 1 - Fundamentals Module - Lessons Leanerd
 
 <img src="./images/lessonslearned.jpg" alt="Lessions learned" />
 
